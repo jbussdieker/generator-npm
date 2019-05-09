@@ -3,17 +3,17 @@
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-npm using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and @jbussdieker/generator-npm using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-npm
+npm install -g @jbussdieker/generator-npm
 ```
 
 Then generate your new project:
 
 ```bash
-yo npm
+yo @jbussdieker/npm
 ```
 
 ## Getting To Know Yeoman
@@ -28,8 +28,8 @@ yo npm
 MIT © [Joshua Bussdieker](github.com/jbussdieker)
 
 
-[npm-image]: https://badge.fury.io/js/generator-npm.svg
-[npm-url]: https://npmjs.org/package/generator-npm
+[npm-image]: https://badge.fury.io/js/@jbussdieker/generator-npm.svg
+[npm-url]: https://npmjs.org/package/@jbussdieker/generator-npm
 [travis-image]: https://travis-ci.org/jbussdieker/generator-npm.svg?branch=master
 [travis-url]: https://travis-ci.org/jbussdieker/generator-npm
 [daviddm-image]: https://david-dm.org/jbussdieker/generator-npm.svg?theme=shields.io
